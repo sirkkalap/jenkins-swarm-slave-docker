@@ -1,6 +1,6 @@
-FROM java:7u65
+FROM java:8u40
 
-MAINTAINER Carlos Sanchez <carlos@apache.org>
+MAINTAINER Petri Sirkkala <sirpete@iki.fi>
 
 ENV JENKINS_SWARM_VERSION 1.22
 ENV HOME /home/jenkins-slave
