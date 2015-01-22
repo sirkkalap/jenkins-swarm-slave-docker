@@ -1,4 +1,4 @@
-FROM java:8u40
+FROM java:7
 
 MAINTAINER Petri Sirkkala <sirpete@iki.fi>
 
